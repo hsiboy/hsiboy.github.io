@@ -16,13 +16,13 @@
 # theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: nv2lt - Scratching the Surface
-email: nv2lt@someone.com
+locale: en-GB
+title: fragments and pragma
+email: probablespam@j-notation.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Scratching the surface on cyber security and system administration...  
+  Bits n pieces on cyber security and software development...  
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://nv2lt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hsiboy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%d-%b-%Y"
 read_time: true # reading time estimates, e.g. true
@@ -40,12 +40,12 @@ google_fonts:
     weights: "400,400i,700,700i"
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: 'UA-172964640-1'
+google_analytics: 'UA-123456789-1'
 
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: "nv2lt" # site's Twitter username, e.g. "mmistakes"
+  username: "" # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -106,31 +106,31 @@ defaults:
 
 # Site Author
 author:
-  name: nv2lt
+  name: Stuart Taylor
   picture:
   email: 
-  twitter: nv2lt
+  twitter:
   links:
     - title: Linkedin
-      url: https://linkedin.com/in/georgios-stamatoukos-profile
+      url: https://uk.linkedin.com/in/stuarttaylor
       icon: fab fa-linkedin
     - title: Twitter
-      url: https://twitter.com/nv2lt
+      url: https://twitter.com/
       icon: fab fa-twitter-square
     - title: GitLab
-      url: https://gitlab.com/nv2lt
+      url: https://gitlab.com/hsiboy
       icon: fab fa-gitlab
 
 # Footer Links
 footer_links:
   - title: Linkedin
-    url: https://linkedin.com/in/georgios-stamatoukos-profile
+    url: https://uk.linkedin.com/in/stuarttaylor
     icon: fab fa-linkedin
   - title: Twitter
-    url: https://twitter.com/nv2lt
+    url: https://twitter.com/
     icon: fab fa-twitter-square
   - title: GitLab
-    url: https://gitlab.com/nv2lt
+    url: https://gitlab.com/
     icon: fab fa-gitlab
   - title: Feed
     url: atom.xml
